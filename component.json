@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "global1_1",
+  "name": "global1_1_1",
   "children": [
     {
       "name": "Badge",
@@ -33,12 +33,46 @@
       "type": "core-component",
       "id": "badge",
       "expressions": []
+    },
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "LYvoFS"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "id": "badge",
+      "expressions": []
     }
   ],
   "variables": [],
   "bindings": [],
   "modules": [],
   "styles": [],
+  "directories": null,
+  "parentDirectoryId": null,
   "externalScripts": [],
   "externalStylesheets": [],
   "localScripts": [],
